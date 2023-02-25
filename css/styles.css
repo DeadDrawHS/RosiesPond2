@@ -1,0 +1,56 @@
+img {
+  margin: 0;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+.div1 {
+  position: relative;
+}
+.background-1 {
+  position: relative;
+  margin: 0;
+}
+.background-2 {
+  margin: -5px;
+}
+.background-img-1 {
+  width: 100%;
+  position: relative;
+}
+.background-img-2 {
+  width: 100%;
+  position: relative;
+}
+.Pond {
+  border-radius: 100%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 40%;
+ 
+}
+
+h1 {
+    color: #FFFFE8;
+    font: italic 4em "Fira Sans", serif;
+    font-weight: bolder;
+    margin: 0;
+    }
+.title {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  letter-spacing: 1rem;
+  font-family: 'Cinzel', serif;
+  
+  
+  
+  
+  
+  
+  
+}
